@@ -10,7 +10,7 @@ public class PlutoClass {
       System.out.println(message);
     }
     
-    String message2 = "This is the second message";
+    String message2 = "This is the second message2";
   }
 
 }
