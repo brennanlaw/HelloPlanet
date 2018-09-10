@@ -9,6 +9,8 @@ public class PlutoClass {
     if (firstNum == secondNum) {
       System.out.println(message);
     }
+    
+    String message2 = "This is the second message";
   }
 
 }
