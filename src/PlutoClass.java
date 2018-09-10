@@ -3,7 +3,7 @@ public class PlutoClass {
 
   public static void main(String[] args) {
     // TODO Auto-generated method stub
-    int firstNum = 3;
+    int firstNum = 4;
     int secondNum = 2;
     String message = "Values are equal";
     if (firstNum == secondNum) {
